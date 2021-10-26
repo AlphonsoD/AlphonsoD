@@ -1,8 +1,9 @@
-<h1> Hi, I'm Alphonso! 👋 </h1>
+# Hi, I'm Alphonso! 👋 
 I'm a 3rd year Computer Engineering student at the University of Alberta, and I'm currently seeking software development internships for Winter and Summer 2022! 
 
-<h3> Reach out: </h3>
- - [LinkedIn](www.linkedin.com/in/alphonsod/)
+### Reach out: 
+[LinkedIn](https://www.linkedin.com/in/alphonsod/)
+
 <!--
 **AlphonsoD/AlphonsoD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
