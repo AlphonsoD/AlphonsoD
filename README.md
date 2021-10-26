@@ -1,4 +1,4 @@
-<h1> Nice to meet you, I'm Alphonso! 👋 <h1>
+<h1> Hi, I'm Alphonso! 👋 <h1>
 
 
 <!--
