@@ -1,5 +1,5 @@
 # Hi, I'm Alphonso! 👋 
-I'm a 4th year Computer Engineering student at the University of Alberta! 
+I'm a 5th year Computer Engineering student at the University of Alberta! 
 
 ### Reach out: 
 [LinkedIn](https://www.linkedin.com/in/alphonsod/)
