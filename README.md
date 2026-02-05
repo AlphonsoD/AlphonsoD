@@ -1,5 +1,5 @@
 # Hi, I'm Alphonso! 👋 
-I'm a recent Computer Engineering graduate from the University of Alberta! 
+I'm a Computer Engineering graduate from the University of Alberta, and I currently work as a software developer at PSPC.
 
 ### Reach out: 
 [LinkedIn](https://www.linkedin.com/in/alphonsod/)
